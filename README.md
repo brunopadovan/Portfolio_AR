@@ -4,6 +4,7 @@
 
 ATENÇÃO!!!!!
 Para acessar o projeto unity é você deve seguir o seguinte caminho: New unity project>Assets>Ta dando certo
+
 PS:
 - evitar superficies muito reflexivas ou muito claras quando for dar o spawn do portfólio.
 
@@ -13,7 +14,7 @@ Caso queira acessar o modelo 3D deste portfólio AR acesse: https://skfb.ly/6VtD
 Caso queira acessar meu portfólio Behance: https://www.behance.net/brunopadovan
 
 IMPORTANTE:
-Video demosntração com comentario no youtube:
+Video demosntração com comentario no youtube: https://youtu.be/A9GUbrTRoQE
 
 
 Obrigado! =)
